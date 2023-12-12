@@ -1,0 +1,168 @@
+.main{
+    display: flex;
+}
+
+.fh{
+    width: 50%;
+}
+
+.appoi{
+    width: 210px;
+    height: 45px;
+    border: 1px solid;
+    border-radius: 30px;
+    margin-top: 170px;
+    margin-left:80px;
+}
+
+.appoip{
+    font-family:sans-serif;
+    padding-left: 55px;
+    margin-top: 15px;
+}
+
+.heading1{
+    color:rgba(20,34,85,255);
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 80px;
+    margin-top: 40px;
+    font-family:sans-serif;
+}
+
+.heading2{
+    color:rgba(38,28,89,255);
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 80px;
+    font-family:sans-serif;
+    margin-top: -35px;
+}
+
+.flb{
+    font-size: 20px;
+    margin-left: 80px;
+    margin-top: -10px;
+}
+
+.slb{
+    font-size: 20px;
+    margin-left: 80px;
+    margin-top: -20px;
+}
+
+.cun{
+    display: flex;
+    margin-left: 80px;
+    width: 80%;
+    height: 150px;
+    background-color: rgba(220,227,245,255);
+    border-radius: 5px;
+}
+
+.logo{
+    height: 80px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.cunint{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.cuninn{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: -10px;
+}
+
+.mun{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 80px;
+    width: 80%;
+    height: 150px;
+    background-color: rgba(220,227,245,255);
+    border-radius: 5px;
+}
+
+.sh{
+    width: 48%;
+    background-color: rgba(220,227,245,255);
+    height: 850px;
+    margin-top: 50px;
+}
+
+.details{
+    display: flex;
+    margin-top:210px;
+}
+
+.fc{
+    width:47%;
+}
+
+.name{
+    background-color: white;
+    margin-left: 20px;
+    width: 410px;
+    height: 55px;
+    border-radius: 10px;
+}
+
+.number{
+    background-color: white;
+    margin-left: 20px;
+    margin-top: -5px;
+    width: 410px;
+    height: 55px;
+    border-radius: 10px;
+
+}
+
+.dtext{
+    font-family: sans-serif;
+    color: rgb(122, 117, 117);
+    font-size: 15px;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+.sc{
+    width:47%;
+    margin-left: 20px;
+}
+
+.ta{
+    margin-top: 15px;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 18px;
+    width: 670px;
+    height: 170px;
+    font-weight: bold;
+    color: rgb(54, 54, 56);
+    border-radius: 10px;
+    border: 0px;
+}
+
+.ba{
+    background-color: rgba(81,104,182,255);
+    margin-left: 20px;
+    margin-top: 30px;
+    width:855px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.bat{
+    font-family: sans-serif;
+    font-size: 20px;
+    padding-left: 360px;
+    padding-top: 1.5%;
+    color: white;
+}
